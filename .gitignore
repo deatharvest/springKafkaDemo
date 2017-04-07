@@ -1,0 +1,23 @@
+/**/target/
+/*/target/
+/*/*/target/
+/**/*.iml
+/**/.idea/
+/**/.DS_Store
+/**/.settings/
+/**/.project
+/**/.classpath
+/**/.externalToolBuilders/
+*.prefs
+*.classpath
+*.project
+.settings/
+proguard/
+logs
+ *.class
+/**/node_modules/g
+bbc-manage-vendor/src/main/webapp/WEB-INF/manage-vendor/node_modules/
+bbc-ui/src/main/webapp/WEB-INF/templates/node_modules/
+passport/src/main/webapp/WEB-INF/member-center/node_modules/
+npm-debug.log
+/**/.svn/
